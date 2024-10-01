@@ -50,3 +50,5 @@ public class BotController {
         }
     }
 }
+
+// Assalomu aleykum!
